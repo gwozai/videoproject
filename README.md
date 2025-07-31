@@ -66,3 +66,16 @@ pip install -r requirement.txt
 ### 付费咨询
 
 微信: lengqin1024
+
+
+### 参考资料
+
+- [m3u8 player](https://m3u8player.org/en/)
+
+- [open m3u8 file](https://m3u8player.org/en/)
+
+- [cnblogs](http://cnblogs.com)
+
+
+
+
