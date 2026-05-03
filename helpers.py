@@ -61,7 +61,7 @@ def send_email(subject, content, to_list):
     Example:
     subject = 'test subject'
     content = 'hello, this is content'
-    to_list = ['abc@qq.com','abcd@163.com']
+    to_list = ['abc@qq.com','12345678@163.com']
     send_email(subject, content, to_list)
 
     """
